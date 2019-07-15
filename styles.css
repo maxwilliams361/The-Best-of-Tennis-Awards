@@ -1,0 +1,48 @@
+h1{
+    text-align:center;
+    color:#ADFF2F;
+    
+}
+h2{
+    text-align:center;
+    color:#7B68EE;
+}
+h3{
+    text-align:center;
+}
+body{
+    background-image:url(http://www.backgroundbandit.com/wallpapers/14/240.jpg);
+}
+img{
+    text-align:center;
+}
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+}
+h1{
+    font-family:'Fredoka One',cursive;
+}
+.Serena{
+    font-family:'Luckiest Guy',cursive;
+}
+.Barty{
+    font-family:'Ultra',serif;
+}
+.Bencic{
+    font-family:'Boogaloo',cursive;
+}
+.Petra{
+    font-family:'Staatliches',cursive;
+}
+.Simona{
+    font-family:'Timmana',sans-serif;
+}
+.Suwei{
+    font-family:'Sigmar One',cursive;
+}
+.best{
+    color:#BA55D3;
+}
